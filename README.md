@@ -1,6 +1,9 @@
 # flutter_starter
 
-A new Flutter project.
+This is a quick-to-use Flutter development template.
+
+## Feature
+- go_router
 
 ## Getting Started
 
