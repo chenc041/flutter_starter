@@ -3,7 +3,8 @@
 This is a quick-to-use Flutter development template.
 
 ## Feature
-- go_router
+- GetX
+- Photo_manager
 
 ## Getting Started
 
