@@ -46,6 +46,9 @@ class _HomePageState extends State<HomePage> {
           ],
         ),
       ),
+      floatingActionButton: FloatingActionButton(onPressed: () {
+        getFiles();
+      }, child: const Icon(Icons.add),),
       bottomNavigationBar: BottomNavigationBar(items: const [
         BottomNavigationBarItem(
           icon: Icon(Icons.home_outlined),
